@@ -1,0 +1,15 @@
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\bin\Debug\net6.0\Business.Infrustructor.deps.json
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\bin\Debug\net6.0\Business.Infrustructor.dll
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\bin\Debug\net6.0\Business.Infrustructor.pdb
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\bin\Debug\net6.0\Business.Core.dll
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\bin\Debug\net6.0\Business.Core.pdb
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\Business.Infrustructor.csproj.AssemblyReference.cache
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\Business.Infrustructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\Business.Infrustructor.AssemblyInfoInputs.cache
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\Business.Infrustructor.AssemblyInfo.cs
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\Business.Infrustructor.csproj.CoreCompileInputs.cache
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\Business.Infrustructor.csproj.CopyComplete
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\Business.Infrustructor.dll
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\refint\Business.Infrustructor.dll
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\Business.Infrustructor.pdb
+C:\Users\99451\Desktop\Tasks\Business\Business.Infrustructor\obj\Debug\net6.0\ref\Business.Infrustructor.dll
